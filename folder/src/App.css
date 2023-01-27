@@ -1,0 +1,12 @@
+* {
+  box-sizing: border-box;
+  padding: 10px;
+  margin: 0;
+  background-color: #BDECB6;
+}
+
+.App {
+  width: 780px;
+  padding: 10px;
+  margin: 50px auto;
+}
